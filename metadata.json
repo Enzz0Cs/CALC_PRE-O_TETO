@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Graham Value Calculator",
+  "description": "Calculadora de preço teto de ações utilizando a fórmula de Benjamin Graham (LPA e VPA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
